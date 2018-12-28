@@ -15,10 +15,10 @@ brainjs@0.7.4:
     inherits "~2.0.1"
     underscore ">=1.5.1"
 
-enquirer@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/enquirer/-/enquirer-2.2.0.tgz#beb4415e6293a6214de0fd405398e994da775d66"
-  integrity sha512-etPgLOWzaJ7qgJyQEVvSG+vOjkldCYJ3ZnDsY/ZF++O/K30rbWUTyUdoz03fg1EF7WtJHIKWdQDHSSYtzNqtTQ==
+enquirer@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/enquirer/-/enquirer-2.3.0.tgz#c362c9d84984ebe854def63caaf12983a16af552"
+  integrity sha512-RNGUbRVlfnjmpxV+Ed+7CGu0rg3MK7MmlW+DW0v7V2zdAUBC1s4BxCRiIAozbYB2UJ+q4D+8tW9UFb11kF72/g==
   dependencies:
     ansi-colors "^3.2.1"
 
@@ -27,7 +27,7 @@ inherits@~2.0.1:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
-rock-paper-scissors-ml@^1.1.0:
+rock-paper-scissors-ml@1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/rock-paper-scissors-ml/-/rock-paper-scissors-ml-1.1.0.tgz#3341d798a1568b15b2d3127815c597d85fa0f4fb"
   integrity sha512-n3y5IcFuDyf8hlJAK8GNZ5jDjyuoDq+vEyANioYVR50yFxnBolWHrSdhoZqEP9D73AZp4oNJuu/Adm3r7eB7Bw==
