@@ -1,47 +1,47 @@
 {
-  "name": "rock-paper-scissors-cli",
-  "main": "index.js",
-  "version": "1.0.0",
-  "description": "Rock Paper Scissors Machine Learning CLI",
-  "author": {
-    "name": "Tiago Danin",
-    "email": "TiagoDanin@outlook.com",
-    "url": "https://TiagoDanin.github.io"
-  },
-  "license": "MIT",
-  "keywords": [
-    "machine",
-    "learning",
-    "machine-learning",
-    "ia",
-    "brainjs",
-    "rock",
-    "paper",
-    "scissors",
-    "rock-paper-scissors",
-    "cli"
-  ],
-  "scripts": {},
-  "private": false,
-  "repository": "https://github.com/TiagoDanin/Rock-Paper-Scissors-CLI.git",
-  "homepage": "https://TiagoDanin.github.io/Rock-Paper-Scissors-CLI",
-  "bugs": "https://github.com/TiagoDanin/Rock-Paper-Scissors-CLI/issues",
-  "github": {
-    "name": "Rock-Paper-Scissors-CLI",
-    "owner": "TiagoDanin"
-  },
-  "files": [
-    "LICENSE",
-    "README.md",
-    "index.js",
-    "package.json"
-  ],
-  "devDependencies": {},
-  "dependencies": {
-    "enquirer": "2.3.0",
-    "rock-paper-scissors-ml": "1.1.0"
-  },
-  "bin": {
-    "rock-paper-scissors-cli-": "index.js"
-  }
+	"name": "rock-paper-scissors-cli",
+	"main": "index.js",
+	"version": "1.0.0",
+	"description": "Rock Paper Scissors Machine Learning CLI",
+	"author": {
+		"name": "Tiago Danin",
+		"email": "TiagoDanin@outlook.com",
+		"url": "https://TiagoDanin.github.io"
+	},
+	"license": "MIT",
+	"keywords": [
+		"machine",
+		"learning",
+		"machine-learning",
+		"ia",
+		"brainjs",
+		"rock",
+		"paper",
+		"scissors",
+		"rock-paper-scissors",
+		"cli"
+	],
+	"scripts": {},
+	"private": false,
+	"repository": "https://github.com/TiagoDanin/Rock-Paper-Scissors-CLI.git",
+	"homepage": "https://TiagoDanin.github.io/Rock-Paper-Scissors-CLI",
+	"bugs": "https://github.com/TiagoDanin/Rock-Paper-Scissors-CLI/issues",
+	"github": {
+		"name": "Rock-Paper-Scissors-CLI",
+		"owner": "TiagoDanin"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"index.js",
+		"package.json"
+	],
+	"devDependencies": {},
+	"dependencies": {
+		"enquirer": "^2.3.0",
+		"rock-paper-scissors-ml": "1.1.0"
+	},
+	"bin": {
+		"rock-paper-scissors-cli-": "index.js"
+	}
 }
