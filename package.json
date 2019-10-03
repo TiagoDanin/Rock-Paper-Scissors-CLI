@@ -38,7 +38,7 @@
 	],
 	"devDependencies": {},
 	"dependencies": {
-		"enquirer": "^2.3.1",
+		"enquirer": "^2.3.2",
 		"rock-paper-scissors-ml": "1.1.0"
 	},
 	"bin": {
